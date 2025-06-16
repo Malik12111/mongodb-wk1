@@ -1,6 +1,6 @@
 // queries.js
 
-// ---: Basic CRUD Operations ---
+// --- Task 2: Basic CRUD Operations ---
 
 // 1. Find all books in a specific genre (e.g., "Fiction")
 db.books.find({ genre: "Fiction" });
